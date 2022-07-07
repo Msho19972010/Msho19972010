@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Msho19972010
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning HTML5 CSS3 JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me simonyanmishakareni@outlook.com
 
 <!---
