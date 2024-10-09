@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Misha, nice to meet you.
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning HTML5 CSS3 JS
+- 🌱 I’m currently learning Java
 - 📫 You can reach with me with my:
 Email: simonyanmishakareni@outlook.com,
-Telegram: @Msho1997,
+Telegram: @Msho1997
 Phone: +7-950-689-89-82, +421-95-032-19-47
 
 <!---
