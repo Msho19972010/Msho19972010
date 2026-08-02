@@ -1,11 +1,22 @@
-- 👋 Hi, I’m Misha, nice to meet you.
-- Misha Simonian | 🛠️ Aspiring Java Developer focused on backend development with Spring Boot 🚀. Building a strong foundation in core Java ☕, REST APIs, and related technologies. Eager to contribute to impactful projects. | Also equipped with a solid understanding of front-end development (HTML 🌐, CSS 🎨, JavaScript 📜).
-- 📫 You can reach with me with my:
-Email: simonyanmishakareni@outlook.com,
-Telegram: @MishaSimonian
-Phone: +421-95-032-19-47
+# Hi, I'm Misha 👋
 
-<!---
-Msho19972010/Msho19972010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend developer based in Banská Bystrica, Slovakia — currently making the switch from Java to Python.
+
+- 🔭 Currently interning as a **Backend Python Developer at COVcheck**, working with **FastAPI, SQLAlchemy & PostgreSQL** on a real production codebase
+- 🌱 Actively studying advanced Python (algorithms & data structures) alongside hands-on work
+- 💼 Solid foundation in **Core Java** (OOP, collections, multithreading) — building on that as I move into Python
+- 🌍 Based in Slovakia, open to backend roles
+- ⚡ Fun fact: my background is actually in dentistry — I made a full career switch into software development
+
+## 🛠️ Tech Stack
+
+**Backend:** Python · FastAPI · SQLAlchemy · PostgreSQL · REST APIs · Java · Spring Boot (basics) · JDBC
+
+**Tools:** Git · GitHub · Postman · pgAdmin · IntelliJ IDEA
+
+**Also comfortable with:** JavaScript · HTML5 · CSS
+
+## 📫 Get in touch
+
+- Email: simonyanmishakareni@outlook.com
+- 📍 Banská Bystrica, Slovak Republic
